@@ -1,0 +1,15 @@
+{
+  "name": "tcpfork",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "bin": {
+    "tcpfork": "./index.js"
+  },
+  "devDependencies": {
+    "prettier": "^1.13.7"
+  },
+  "dependencies": {
+    "minimist": "^1.2.0"
+  }
+}
